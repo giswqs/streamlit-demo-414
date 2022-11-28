@@ -17,7 +17,7 @@ st.sidebar.image(logo)
 # Customize page title
 st.title("Streamlit for GEOG-414")
 
-st.header('Thiis is so COOL')
+st.header('This is so COOL')
 
 st.markdown(
     """
